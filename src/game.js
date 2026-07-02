@@ -22,7 +22,6 @@ password.addEventListener("click", () => {
     eyeright.style.top = '55%'
     boxinp2.style.border = "#e5dff9"
 
-
 })
 
 btn.addEventListener("click", () => {
