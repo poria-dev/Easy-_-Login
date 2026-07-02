@@ -5,7 +5,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1200&color=8A7CFF&center=true&vCenter=true&width=700&lines=Animated+Login+UI;Built+with+Vanilla+JavaScript;HTML5+++TailwindCSS;Interactive+Eye+Animation" />
 
 <br>
-
+<p align="center">
+  <img src="gif.gif" width="900">
+</p>
 <a href="https://poria-dev.github.io/Easy-_-Login/src/">
     <img src="https://img.shields.io/badge/🚀_Live_Demo-8A2BE2?style=for-the-badge">
 </a>
